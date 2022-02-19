@@ -1,5 +1,5 @@
 1.19 Experimental Snapshot Installer
-===================================
+====================================
 
 This project is intended to install the latest 1.19 experimental snapshot directory into your Minecraft directory,
 all from the convenience of your Bash shell. Windows support coming soon:tm:
