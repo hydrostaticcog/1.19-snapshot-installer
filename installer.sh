@@ -2,7 +2,7 @@
 
 URL="https://launcher.mojang.com/v1/objects/b1e589c1d6ed73519797214bc796e53f5429ac46/1_19_deep_dark_experimental_snapshot-1.zip"
 ZIPNAME="snapshot.zip"
-MCVERSION="1.19 Experimental Snapshot 1/pending"
+MCVERSION="Deep Dark Experimental Snapshot 1/pending"
 
 echo "$MCVERSION Installer!"
 echo "What is the full path to your Minecraft directory? (defaults to ~/.minecraft)"
