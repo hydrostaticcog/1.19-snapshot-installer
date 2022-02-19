@@ -2,6 +2,9 @@
 ====================================
 
 This project is intended to install the latest 1.19 experimental snapshot directory into your Minecraft directory,
-all from the convenience of your Bash shell. Windows support coming soon:tm:
+all from the convenience of your Bash shell.
+
+Windows support coming soon:tm:
 
 This is intended to be a continuation of https://github.com/randomairborne/1.18-snapshot-installer
+(I've recycled some of my own code and invited @randomairborne to add some of his powershell secret sauce)
